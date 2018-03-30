@@ -1,0 +1,14 @@
+header {
+    background: url("../images/backgrounds/Capa13.png") no-repeat center right;
+    background-size: cover;
+    color: #FFFFFF;
+    padding: 50px 25px;
+}
+
+header img {
+    max-width: 100px;
+}
+
+header h1 {
+    font-size: 50px;
+}

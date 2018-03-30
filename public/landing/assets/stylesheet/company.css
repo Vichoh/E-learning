@@ -1,0 +1,28 @@
+header {
+    background: url("../images/backgrounds/Capa26.png") no-repeat center right;
+    background-size: cover;
+    color: #FFFFFF;
+    padding: 50px 25px;
+}
+
+header img {
+    max-width: 100px;
+}
+
+header h1 {
+    font-size: 50px;
+}
+
+.logo img {
+    margin: 10px auto;
+}
+
+.image-bottom {
+    bottom: 0;
+}
+
+.image-bottom img {
+    bottom: 0;
+    margin: 20px auto -10px;
+    border-radius: 5px;
+}

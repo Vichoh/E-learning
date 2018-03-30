@@ -1,0 +1,31 @@
+header {
+    background: url("../images/backgrounds/Capa34.jpg") no-repeat center right;
+    background-size: cover;
+    color: #FFFFFF;
+    padding: 50px 25px;
+}
+
+header img {
+    max-width: 100px;
+}
+
+header h1 {
+    font-size: 50px;
+}
+
+.product-list {
+    display: inline-block;
+}
+
+.product-img img {
+    margin: 25px auto 0;
+}
+
+.color {
+    color: #1b6d85;
+}
+
+.product-list ul {
+    list-style: none;
+    font-size: 20px;
+}
